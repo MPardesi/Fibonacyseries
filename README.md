@@ -4,6 +4,7 @@ class Add
 {
    public static void main (String args[])
    { 
+     // Create Scanner object
      Scanner sc=new Scanner(System.in);
      int a,b,c;
      System.out.println("Enter First no.");
@@ -13,5 +14,12 @@ class Add
      sc.close();
      c=a+d;
      System.out.println("Addition is"+c);
-   }
-}
+    }
+ }
+
+
+  
+
+
+  
+
