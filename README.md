@@ -1,4 +1,4 @@
-# SayHello
+#Addition
 import java.util.Scanner;
 class Add
 {
